@@ -20,7 +20,7 @@
 
 📫 How to reach me:
 
-- Email: guigomesa@gmail.com
+- Email: guigomesa@fastmail.com
  
 - Linkedin: https://www.linkedin.com/in/guigomesa/
  
