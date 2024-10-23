@@ -9,7 +9,7 @@
 
 
 
-❤ I like C#, Javascript and Python. 
+❤ I like C# and Clojure, sometimes Python and Javascript. 
 
 
 🔭 Im currently collaborate on [TibiaScrapy](https://github.com/guigomesa/ScrapyTibiaCSharp), my Pet project
