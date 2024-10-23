@@ -17,9 +17,7 @@
 
 📫 How to reach me:
 
-- Blog: https://guigo.io
-
-- Email: guigomesa@fastmail.com
+- Email: guigomesa@gmail.com
  
 - Linkedin: https://www.linkedin.com/in/guigomesa/
  
